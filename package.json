@@ -1,0 +1,21 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Tivona Spruill",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-form": "^0.12.6",
+    "form-validator": "0.0.11",
+    "mustache": "^2.3.0",
+    "mustache-express": "^1.2.5",
+    "validator": "^8.0.0"
+  }
+}
